@@ -8,6 +8,6 @@ main()
 
 	printf("Enter rate:");
 	scanf("%f", &rate); 
-	while(money*pow(1+rate/100, n++) < 2*money);
+	while(pow(1+rate/100, n++) < 2);
 	printf("n = %d\n", n);
 }

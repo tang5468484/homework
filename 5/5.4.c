@@ -6,7 +6,7 @@ main()
 	float a, c, d;
 	int b;
 	
-	printf("请依次输入存款本金和年限，之间以空格分隔\n");
+	printf("璇蜂緷娆¤緭鍏ュ瓨娆炬湰閲戝拰骞撮檺锛屼箣闂翠互绌烘牸鍒嗛殧\n");
 	scanf("%f %d", &a, &b);
 	
 	switch (b)
